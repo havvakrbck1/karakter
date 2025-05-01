@@ -1,6 +1,6 @@
 import telebot
 
-TOKEN = '7975718778:AAEIyvExGWAPyLFFBl4FBs55Y46WEbQQ1Hg'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 oyuncular = {}
