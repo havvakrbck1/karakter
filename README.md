@@ -8,6 +8,13 @@ Bu proje, kullanıcılar için rastgele veya belirli kurallara göre karakter ol
 
 ## 🚀 Kullanılan Teknolojiler
 - Python
+  
+ÖRNEK ÇIKTI
+Karakter Adı: Elara
+Yaş: 27
+Meslek: Şifacı
+Yetenek: Bitki bilgisi, iksir yapımı
+
 
 ## ⚙️ Kurulum
 
@@ -15,4 +22,3 @@ Bu proje, kullanıcılar için rastgele veya belirli kurallara göre karakter ol
 git clone https://github.com/havvakrbck1/karakter.git
 cd karakter
 python karakter_olusturucu.py
-
